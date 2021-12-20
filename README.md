@@ -12,3 +12,7 @@ The API caller is able to use these operations on API:
 Postman test data samples:
 https://www.postman.com/avionics-physicist-21440496/workspace/new-personal-workspace/collection/18662089-647b4c1d-650b-4ca4-ba48-15fb11d0f7c1
 
+## Installation
+
+Download logging
+
