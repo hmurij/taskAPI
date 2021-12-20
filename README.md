@@ -16,3 +16,6 @@ https://www.postman.com/avionics-physicist-21440496/workspace/new-personal-works
 
 Download loggingapi folder or git pull https://github.com/hmurij/taskAPI.git . Import existing Maven project and run /info-manager/src/main/java/com/cognizant/TasksManagementSystem.java or run jar file with java -jar taskApi.jar
 
+Database available at http://localhost:8080/h2-console/ JDBC URL: jdbc:h2:mem:tasks
+Swagger available at http://localhost:8080/swagger-ui.html
+
